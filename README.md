@@ -14,13 +14,15 @@ The goal of this project is to implimment a rating system for customers to rate 
 
 Customers will be able to give a rating from 0-10 for the restaurant and driver.
 
-Customer will be able to see the avergae rating for the resatuarnat.
+Customer will be able to see the avergae rating for the resatuarnat and driver.
 
-Customer will be able to see the maximum rating for the resatuarnat.
+Customer will be able to see the maximum rating for the resatuarnat and driver.
 
-Customer will be able to see the minimum rating for the resatuarnat.
+Customer will be able to see the minimum rating for the resatuarna and driver.
 
-Administrators can see and edit reviews.
+Administrators can see all reviews.
+
+Administrators can remove any review.
 
 # EERD 
 
