@@ -7,4 +7,10 @@ This rating system will be implemented for both the restaurant and the delivery 
 There can also be many ratings for both the driver and the restaurant. When viewing a resturant you can see the min, max,
 and average ratings. Drivers will also have a veiw min, max, and average ratings.
 
+# Use Case
+
 # Business rules
+
+# EERD 
+
+# Data Dictionary
