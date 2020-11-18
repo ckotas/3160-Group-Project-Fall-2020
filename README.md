@@ -10,6 +10,12 @@ and average ratings. Drivers will also have a veiw min, max, and average ratings
 # Use Case
 
 # Business rules
+The goal of this project is to implimment a rating system for customers to rate the restaurant and driver.
+Customers will be able to give a rating from 0-10 for the restaurant and driver.
+Customer will be able to see the avergae rating for the resatuarnat.
+Customer will be able to see the maximum rating for the resatuarnat.
+Customer will be able to see the minimum rating for the resatuarnat.
+Administrators can see and edit reviews.
 
 # EERD 
 
