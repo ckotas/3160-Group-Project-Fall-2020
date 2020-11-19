@@ -8,7 +8,7 @@ There can also be many ratings for both the driver and the restaurant. When view
 and average ratings. Drivers will also have a veiw min, max, and average ratings.
 
 # Use Case
-!(https://github.com/ckotas/3160-Group-Project-Fall-2020/edit/main/Rating System - Group 8.png?raw=true)
+!(https://github.com/ckotas/3160-Group-Project-Fall-2020/edit/main/Rating_System_-_Group 8.png?raw=true)
 
 # Business rules
 The goal of this project is to implimment a rating system for customers to rate the restaurant and driver.
