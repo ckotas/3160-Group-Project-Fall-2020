@@ -31,3 +31,9 @@ Administrators can remove any review.
 # Data Dictionary
 
 ![Data Dictionary](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf)
+
+<object data="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf%22%3EDownload PDF</a>.</p>
+    </embed>
+</object>
