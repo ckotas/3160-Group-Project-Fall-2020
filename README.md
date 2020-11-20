@@ -31,3 +31,4 @@ Administrators can remove any review.
 # Data Dictionary
 
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf">Data Dictionary</a>
+<embed src="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf" type="application/pdf">
