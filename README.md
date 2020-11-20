@@ -30,6 +30,4 @@ Administrators can remove any review.
 
 # Data Dictionary
 
-![Data Dictionary](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf)
-
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_dictionary.pdf">Data Dictionary</a>
