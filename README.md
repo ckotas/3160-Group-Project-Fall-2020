@@ -30,4 +30,4 @@ Administrators can remove any review.
 
 # Data Dictionary
 
-![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Schema%20Report%20for%20database_%20campus_eats_fall2020.pdf)
+![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020)
