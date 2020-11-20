@@ -29,3 +29,5 @@ Administrators can remove any review.
 ![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/UML.png)
 
 # Data Dictionary
+
+![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/UML.png)
