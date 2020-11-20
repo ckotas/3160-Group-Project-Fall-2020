@@ -26,5 +26,6 @@ Administrators can see all reviews.
 Administrators can remove any review.
 
 # EERD 
+![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/UML.png)
 
 # Data Dictionary
