@@ -30,7 +30,7 @@ Administrators can remove any review.
 
 # Data Dictionary
 
-<a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/datadictionary1.html">Data Dictionary</a>
+<a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Data_Dictionary1.pdf">Data Dictionary</a>
 
 # Test Data
 
