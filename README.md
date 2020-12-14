@@ -48,7 +48,7 @@ Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/Advance%20SQL">Advanced SQL pictures</a>
 
 # Narrated Powerpoint
-<a href="https://docs.google.com/presentation/d/1sfbGrcsqsX79F34wF72LRYwt3c-vw94gS4WCayPe40I/edit#slide=id.p"> Powerpoint</a>
+<a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/ITSC_3160_Group_8.pptx"> Powerpoint</a>
 
 # Indexs
 Indexes can help to speed up the query processing. Most indexes are on the primary keys or a unique key that has a unique constraint.
