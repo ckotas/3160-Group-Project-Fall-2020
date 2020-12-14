@@ -39,7 +39,7 @@ Administrators can remove any review.
 Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/table_select">table_select</a> for the rest of the pictures
 
 # SQL Dump File
-<a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Dump20201204.sql">SQL Dump File</a>
+<a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Dump20201214.sql">SQL Dump File</a>
 
 # Advanced SQL statements
 
