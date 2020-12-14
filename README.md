@@ -42,3 +42,8 @@ Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Dump20201204.sql">SQL Dump File</a>
 
 # Advanced SQL statements
+
+# Indexs
+Indexes can help to speed up the query processing. Most indexes are on the primary keys or a unique key that has a unique constraint.
+In our case most of the time when we sorted we based it on the data that was created in the stored procedure and not the columns.
+We did not use indexes for the sort because the data was a temporary variable that would be gone when the procedure was done. You also want to be careful because adding indexes can be costly and slow down your database.
