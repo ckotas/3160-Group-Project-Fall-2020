@@ -35,6 +35,7 @@ Administrators can remove any review.
 # Test Data
 
 ![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Test_data.png)
+Check table_select for the rest of the pictures
 
 # SQL Dump File
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Dump20201204.sql">SQL Dump File</a>
