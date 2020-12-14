@@ -6,7 +6,7 @@ For this project we take an existing database for a food delivery service and im
 This rating system will be implemented for both the restaurant and the delivery driver. They will get a score out of 10. 
 There can also be many ratings for both the driver and the restaurant. When viewing a restaurant, you can see the min, max,
 and average ratings. Drivers will also have a view min, max, and average ratings.
-<a href="https://docs.google.com/presentation/d/1sfbGrcsqsX79F34wF72LRYwt3c-vw94gS4WCayPe40I/edit#slide=id.p"> Powerpoint</a>
+
 # Use Case
 ![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Rating_System_Group_8.png)
 
@@ -43,6 +43,8 @@ Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/
 
 # Advanced SQL statements
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/Advance%20SQL">Advanced SQL pictures</a>
+#Narrated Powerpoint
+<a href="https://docs.google.com/presentation/d/1sfbGrcsqsX79F34wF72LRYwt3c-vw94gS4WCayPe40I/edit#slide=id.p"> Powerpoint</a>
 
 # Indexs
 Indexes can help to speed up the query processing. Most indexes are on the primary keys or a unique key that has a unique constraint.
