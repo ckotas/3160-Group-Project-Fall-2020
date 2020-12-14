@@ -42,6 +42,7 @@ Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Dump20201214.sql">SQL Dump File</a>
 
 # Advanced SQL statements
+<a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/Advance%20SQL">Advanced SQL pictures</a>
 
 # Indexs
 Indexes can help to speed up the query processing. Most indexes are on the primary keys or a unique key that has a unique constraint.
