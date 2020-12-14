@@ -7,6 +7,9 @@ This rating system will be implemented for both the restaurant and the delivery 
 There can also be many ratings for both the driver and the restaurant. When viewing a restaurant, you can see the min, max,
 and average ratings. Drivers will also have a view min, max, and average ratings.
 
+# Video About Project
+https://youtu.be/SOgHAlkY0tg
+
 # Use Case
 ![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Rating_System_Group_8.png)
 
