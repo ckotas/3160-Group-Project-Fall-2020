@@ -47,7 +47,7 @@ Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/
 # Advanced SQL statements
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/Advance%20SQL">Advanced SQL pictures</a>
 
-# Narrated Powerpoint
+# Powerpoint
 <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/ITSC_3160_Group_8.pptx"> Powerpoint</a>
 
 # Indexs
