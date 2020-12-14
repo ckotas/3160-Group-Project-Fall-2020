@@ -34,7 +34,7 @@ Administrators can remove any review.
 
 # Test Data
 
-![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/Test_data.png)
+![Use Case](https://github.com/ckotas/3160-Group-Project-Fall-2020/blob/main/table_select/ratingsystem_table.png)
 
 Check <a href="https://github.com/ckotas/3160-Group-Project-Fall-2020/tree/main/table_select">table_select</a> for the rest of the pictures
 
